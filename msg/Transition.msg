@@ -1,13 +1,13 @@
 # name of event
-string event
+string[] event 
 
 # name of target state
-string target
+string[] target
 
 # condition
-string condition
+string[] condition 
 
 # actions
-string before
-string action
-string after
+string[] before 
+string[] action 
+string[] after 

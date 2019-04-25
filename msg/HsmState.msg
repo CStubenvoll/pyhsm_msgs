@@ -4,4 +4,4 @@ string path
 # initial state
 string initial
 
-Transition[] transitions
+Transition transitions

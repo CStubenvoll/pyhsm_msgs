@@ -1,4 +1,4 @@
 # path prefix
 string prefix
 
-State[] states
+HsmState[] states

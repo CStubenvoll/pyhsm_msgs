@@ -6,10 +6,11 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_message_files(FILES
   HsmStructure.msg
-  State.msg
+  HsmState.msg
   Transition.msg
   HsmStatus.msg
   TransitionRequest.msg
+  ContainerInitialStatusCmd.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
